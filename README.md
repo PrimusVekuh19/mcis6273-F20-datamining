@@ -1,2 +1,12 @@
 # mcis6273-F20-datamining
-Data Mining Repository
+## Data Mining Repository
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur turpis orci, tempus eget lectus auctor, posuere egestas arcu. Aenean eget ligula sit amet justo elementum posuere. Donec in mauris nisi. In eget massa urna. Vivamus at nibh suscipit, feugiat nulla ut, iaculis metus. Aenean ac iaculis quam, quis ultricies lorem. Aenean dignissim efficitur turpis sit amet venenatis. Aenean at augue quis diam volutpat aliquam. Proin vitae ullamcorper lacus, ut consectetur est.
+
+Vivamus vulputate pretium mauris at hendrerit. Mauris eros lacus, blandit vel nisi eu, aliquet aliquam dui. Ut accumsan sollicitudin mauris at luctus. Curabitur interdum commodo quam et mollis. Integer interdum ligula ut mi vulputate, quis suscipit ligula tincidunt. Cras sagittis auctor justo, vel pellentesque nisl. Nam est eros, facilisis ut mi auctor, accumsan aliquam tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vel lorem interdum, aliquam quam fringilla, viverra sem.
+
+Ut vel mi varius, suscipit eros sed, venenatis elit. Donec lacinia nisl quis elit rutrum ultrices. Ut lectus tellus, vulputate a est nec, hendrerit sollicitudin magna. Duis consectetur laoreet dolor, eu auctor nunc eleifend ac. Donec eleifend metus eget ligula gravida, quis maximus mauris iaculis. Nunc dapibus faucibus magna, ac commodo mauris cursus eu. Sed semper commodo arcu, nec semper ante hendrerit nec. Aenean in sodales nisi. Maecenas eget scelerisque eros. Nulla posuere dictum pulvinar. Pellentesque nisl nisi, ultrices id hendrerit a, fringilla aliquet neque.
+
+Proin tempor, velit a consequat mattis, tellus mi consectetur libero, sed efficitur tortor odio in dolor. Etiam congue facilisis eros, eu porttitor ante. Integer bibendum justo et elit venenatis, nec venenatis diam sodales. Ut hendrerit ipsum pharetra mauris consectetur, et placerat massa pulvinar. Cras sem libero, consequat in mauris sit amet, commodo pharetra lorem. Nunc quis aliquet lorem. In fringilla vehicula suscipit. Ut in odio varius sem molestie congue eget sed erat. Praesent nec eleifend ipsum. Etiam semper sem ac elit vulputate, ac facilisis lacus elementum. Sed pretium posuere leo. Donec dictum a tellus sit amet vulputate. Pellentesque vestibulum tempus rutrum.
+
+Proin aliquet tempus tortor at efficitur. Suspendisse risus odio, tincidunt eu feugiat ac, tincidunt et mi. Mauris imperdiet congue dui non congue. Etiam tempor velit ac mi dictum gravida. Fusce nec tristique ligula. Pellentesque eget sagittis ipsum. Vestibulum tempor a nunc in posuere. Ut tincidunt vel augue vel ultricies. Morbi consectetur sapien nec justo hendrerit dapibus.
